@@ -9,7 +9,7 @@
           "MessageId": "xxxxxxxxxx",
           "TopicArn": "arn:aws:sns:us-east-1::serverless-reco-results",
           "Subject": "None",
-          "Message": "{'status': 'ok', 'name': 'golden-retriever-puppy.jpg','result': 'Brittany_spaniel','confidence': 0.5541537404060364}",
+          "Message": "{'status': 'ok', 'name': '<IMAGE_NAME>','result': 'Brittany_spaniel','confidence': 0.5541537404060364}",
           "Timestamp": "2019-01-25T11:55:49.972Z",
           "SignatureVersion": "1",
           "Signature": "xxxxxxxxxxxxxxxxxxxxx",
